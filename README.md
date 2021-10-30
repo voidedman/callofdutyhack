@@ -1,2 +1,2 @@
 # callofdutyhack
-c# hack for callofduty
+c++/c/asm hack for callofduty
